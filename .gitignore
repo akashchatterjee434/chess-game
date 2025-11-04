@@ -1,0 +1,10 @@
+# Node.js
+node_modules/
+.env
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+#public assets
+public
